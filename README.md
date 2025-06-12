@@ -16,15 +16,15 @@
 
 <div align="center">
 
-| Linguagem & Ferramentas | Nível de Experiência | Projetos Relevantes                    |
+| Linguagem & Ferramentas | Nível de Experiência | Projetos Desenvolvidos                    |
 |--------------------------|----------------------|----------------------------------------|
 | ![Python](https://img.shields.io/badge/-Python-FFD1DC?style=flat&logo=python&logoColor=black)         | ⭐⭐⭐☆ Intermediário | 🔗 [Gerenciamento de funcionários(CRUD)](https://github.com/juliaschiavi18/FunciMaster_3000) |
-| ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD1DC?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐☆ Intermediário | 🔗 [Link do repositório](https://github.com/syinapse/website-RestauranteYume) |
-| ![HTML5](https://img.shields.io/badge/-HTML5-FFD1DC?style=flat&logo=html5&logoColor=black)           | ⭐⭐⭐☆ Intermediário | 🔗 [Link do repositório](https://github.com/user-mind/website-VinheriaAgnello) |
-| ![CSS3](https://img.shields.io/badge/-CSS3-FFD1DC?style=flat&logo=css3&logoColor=black)              | ⭐⭐⭐☆ Intermediário | 🔗 [Link do repositório](https://github.com/syinapse/website-gearshow) |
-| ![C++](https://img.shields.io/badge/-C++-FFD1DC?style=flat&logo=c%2B%2B&logoColor=black)             | ⭐⭐⭐☆ Intermediário | 🔗 [Link do repositório](https://github.com/user-mind/projetos-edgecomputing) |
+| ![JavaScript](https://img.shields.io/badge/-JavaScript-FFD1DC?style=flat&logo=javascript&logoColor=black) | ⭐⭐⭐☆ Intermediário | 🔗 [Restaurante Yume](https://github.com/syinapse/website-RestauranteYume) |
+| ![HTML5](https://img.shields.io/badge/-HTML5-FFD1DC?style=flat&logo=html5&logoColor=black)           | ⭐⭐⭐☆ Intermediário | 🔗 [Vinheria Agnello](https://github.com/user-mind/website-VinheriaAgnello) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-FFD1DC?style=flat&logo=css3&logoColor=black)              | ⭐⭐⭐☆ Intermediário | 🔗 [GearShow](https://github.com/syinapse/website-gearshow) |
+| ![C++](https://img.shields.io/badge/-C++-FFD1DC?style=flat&logo=c%2B%2B&logoColor=black)             | ⭐⭐⭐☆ Intermediário | 🔗 [Projetos C++](https://github.com/user-mind/projetos-edgecomputing) |
  </div>
----
+
 
 ## 📈 Minhas Estatísticas
 
