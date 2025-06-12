@@ -30,17 +30,17 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=juliaschiavi18&show_icons=true&theme=dracula&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
-
-<br><br>
-
 <!-- Linguagens mais usadas -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliaschiavi18&layout=compact&theme=dracula&title_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="Top Langs" />
 
+<br><br>
+
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=juliaschiavi18&show_icons=true&theme=dracula&title_color=FF69B4&icon_color=FF69B4&text_color=ffffff&bg_color=0d1117&border_radius=10" alt="GitHub Stats" />
+
 </div>
 
----
+
 
 ## 📬 Onde me encontrar
 
